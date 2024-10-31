@@ -1,0 +1,21 @@
+Name: yat siu
+Sentence: **Yat Siu** (Chinese: 蕭逸; born 1973) is a Hong Kong–based entrepreneur and
+angel investor, who was born and raised in Vienna, Austria.
+Keywords: born, yat, siu
+
+Name: animoca brands
+Sentence: **Animoca Brands Corporation Ltd.** is a Hong Kong–based game software company
+and venture capital company co-founded in 2014 by Yat Siu and David Kim.
+Keywords: company, animoca, brands
+
+Name: animoca brands
+Sentence: The
+company initially focused on developing mobile games, then shifted to
+blockchain gaming and NFTs in 2018.
+Keywords: company, initially, focused
+
+Name: animoca brands
+Sentence: Animoca Brands was listed on the Australian Securities Exchange from 23
+January 2015 to 9 March 2020.
+Keywords: animoca, brands, listed
+
